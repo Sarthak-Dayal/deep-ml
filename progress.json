@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-10-04T18:52:53.851Z",
+  "items": {
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2026-10-04T05:41:02.836Z",
+      "last_pushed_at": "2026-10-04T05:41:02.836Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-10-04T05:57:37.728Z",
+      "last_pushed_at": "2026-10-04T05:57:37.728Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-10-04T06:05:30.969Z",
+      "last_pushed_at": "2026-10-04T06:05:30.969Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-10-04T18:26:47.412Z",
+      "last_pushed_at": "2026-10-04T18:26:47.412Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-10-04T18:27:44.561Z",
+      "last_pushed_at": "2026-10-04T18:27:44.561Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2026-10-04T18:47:14.275Z",
+      "last_pushed_at": "2026-10-04T18:47:14.275Z",
+      "language": "python",
+      "lines": 31
+    }
+  }
+}
